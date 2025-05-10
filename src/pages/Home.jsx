@@ -173,7 +173,7 @@ function Home() {
   );
 }
 
-export default Home;import { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import BookCard from '../components/BookCard';
 import UserShelf from '../components/UserShelf';
